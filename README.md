@@ -2,7 +2,7 @@
 
 Dear reader,
 
-This project contians the data scraped through booking.com that was used for the data analysis. Furthermore, this file contains the code used to perform the analysis. 
+This project contians the data scraped through booking.com that was used for the data analysis. Furthermore, this file contains the code used to clean and partially analyze the data
 
 Kind regards,
 
