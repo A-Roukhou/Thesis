@@ -2,7 +2,7 @@
 
 Dear reader,
 
-This project contians the data scraped through booking.com that was used for the data analysis. Furthermore, this file contains the code used to clean and partially analyze the data
+This project contians the code used to clean and partially analyze the data collected on booking.com. The goal of the thesis was to find out of the dimensions mentioned in customer reviews could explain customer satisfaction.
 
 Kind regards,
 
